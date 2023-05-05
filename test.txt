@@ -1,0 +1,45 @@
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.event.InputEvent;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.awt.MouseInfo;
+import java.awt.Point;
+import java.util.Arrays;
+
+class Scratch {
+
+    public static void main(String[] args) throws InterruptedException, AWTException {
+        Robot robot = new Robot();
+        var lastMousePos = MouseInfo.getPointerInfo().getLocation();
+        while (true) {
+            var low = LocalTime.of(7, 30);
+            var high = LocalTime.of(17, 00);
+            var now = LocalTime.now();
+            var current = MouseInfo.getPointerInfo().getLocation();
+            var dateOfWeek = LocalDate.now().getDayOfWeek();
+            if (current.getX() == lastMousePos.getX()) {
+                // Move the mouse to a random location
+                int x = current.getLocation().x + 1;
+                int y = current.getLocation().y;
+                robot.mouseMove(x, y);
+
+                System.out.println("moving");
+                // Wait for one minute
+
+            } else {
+                System.out.println("not moving");
+            }
+
+            if (!(now.isAfter(low) && now.isBefore(high))) {
+                break;
+            }
+
+            lastMousePos = MouseInfo.getPointerInfo().getLocation();
+
+            Thread.sleep(60000);
+        }
+    }
+}
+
