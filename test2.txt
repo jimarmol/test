@@ -1,6 +1,6 @@
-Pictograms can be easily identified because they have a _________ (except for the biohazardous infectious materials pictogram which has a round black border). Fill in the blank.
+SDSs must be:
 
-a. Red square on a point border.
-b. Black square on a point border.
-c. All pictograms have a round black border.
-d. Pictograms do not have a border.
+a. Available in paper or electronic form.
+b. Readily available to all workers in the workplace.
+c. Obtained by the employer before workers start using the product.
+d. All of the above.
