@@ -1,0 +1,6 @@
+The pictogram, signal word, and hazard statements work together to tell you about:
+
+a.The hazard class of the product.
+b. The cost of the product.
+c. The degree of the hazard.
+d. The three elements have no meaning when placed together.
