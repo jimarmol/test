@@ -1,6 +1,6 @@
-Precautionary statements provide advice about storage, use, first aid, personal protective equipment, and emergency measures. You can find these statements on the:
+Every hazardous product (with a few specific exceptions) that falls under the WHMIS laws must have:
 
-a. Label.
-b. SDS.
-c. Both the label and the SDS.
-d. Neither the label nor the SDS.
+a. A label and an SDS.
+b. A packing slip and invoice.
+c. A label.
+d. A specific type of container.
