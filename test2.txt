@@ -1,8 +1,6 @@
-Who is responsible for ensuring that workers understand the hazards of the products that they work with?
+Precautionary statements provide advice about storage, use, first aid, personal protective equipment, and emergency measures. You can find these statements on the:
 
-
-
-a. The employer.
-b. The union.
-c. The health and safety officer.
-d. The health and safety committee.
+a. Label.
+b. SDS.
+c. Both the label and the SDS.
+d. Neither the label nor the SDS.
