@@ -1,6 +1,4 @@
-The pictogram, signal word, and hazard statements work together to tell you about:
+A hazard category will usually be identified with a number. Which number represents the higher or greater hazard?
 
-a.The hazard class of the product.
-b. The cost of the product.
-c. The degree of the hazard.
-d. The three elements have no meaning when placed together.
+
+1.
