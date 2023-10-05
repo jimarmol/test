@@ -1,6 +1,75 @@
-Every hazardous product (with a few specific exceptions) that falls under the WHMIS laws must have:
-
-a. A label and an SDS.
-b. A packing slip and invoice.
-c. A label.
-d. A specific type of container.
+1. Work-related musculoskeletal disorders:
+ a) Are always reversible.
+ b) Are always permanent.
+ c) Can be reversible if action is taken in time.
+ d) Can never be cured.
+2. Health complaints should be investigated when they are:
+ a) Compensated injuries only.
+ b) Warning signs such as tingling, numbness, loss of grip.
+ c) Severe pains that do not allow the person to fall asleep.
+ d) Disabling to the individual.
+3. Which statement is FALSE? A MSD prevention policy should:
+ a) Describe how incidents will be reported and investigated.
+ b) Apply only to workers who lift heavy objects while working.
+ c) Communicate your organization’s commitment to preventing work-related MSDs.
+ d) Clearly define work-related MSDs.
+4. Good lifting practices should be used:
+ a) Only when lifting very large objects.
+ b) For all objects no matter their size or weight.
+ c) For heavy boxes.
+ d) By the maintenance personnel only.
+5. Breaks are important because:
+ a) When you work in a hurry, your muscles tense up.
+ b) Muscle tension accelerates fatigue.
+ c) Fatigue promotes discomfort and injury.
+ d) All of the above.
+6. Ideally, breaks should be:
+ a) Scheduled once an hour.
+ b) Taken in 15 minute periods only.
+ c) When you need them, preferably frequent and short.
+ d) Taken when a person works on a computer.
+7. Employers must address work-related MSDs by establishing a prevention program. Employees should:
+ a) Wait until the program is established.
+ b) Participate in training and planning, and report early signs of MSD injuries.
+ c) Participate when on the health and safety committee.
+ d) A and b only.
+8. Ergonomic hazards involve careful consideration of the following components:
+ a) The workstation.
+ b) The worker.
+ c) The job (tasks).
+ d) All of the above.
+9. Job-specific control steps include:
+ a) Identification of risks.
+ b) Involvement of employees.
+ c) Management commitment and leadership.
+ d) All of the above.
+10. The main reason body mapping is an effective method for identifying risk is:
+ a) It shows where the most serious injuries occur.
+ b) It can gather information about injuries before they are serious.
+ c) It only involves compensation cases.
+ d) Body mapping is not effective.
+11. Applying force increases the risk of injury to:
+ a) Large muscles.
+ b) Your back.
+ c) Yours hands.
+ d) The part of the body that is used to apply the force.
+12. Ideally, when working in a standing position, what factor determines the height of the workstation?
+ a) The workstation should match the height required for the type of task and the worker.
+ b) The workstation should match the height of the equipment used.
+ c) Always 15-20 cm below elbow height.
+ d) 100 cm above the floor.
+13. The risk factors associated with work-related MSDs typically have a greater effect when they are combined with:
+ a) The duration or how long the person has been doing the job.
+ b) Full-time computer based work.
+ c) Heavy construction work for at least six months.
+ d) How long a person has been on the job does not matter.
+14. Risk mapping is an effective method because:
+ a) It involves safety experts only.
+ b) It uses worker’s experience and knowledge.
+ c) It involves using reportable accident records.
+ d) All of the above.
+15. MSDs develop:
+ a) From a single event or incident.
+ b) From tasks that repeatedly cause strain.
+ c) Only in the wrists and hands.
+ d) All of the above.
