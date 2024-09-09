@@ -1,40 +1,40 @@
-"1","2024-09-08 20:01:53.658019","1","1","OMISE_CREDIT","logo.opn","Credit Card","credit_card","CREDIT_CARD","1","1","0","1","1","0","1",\N,\N
-"2","2024-09-08 20:01:53.658019","1","1","OMISE_TRUEMONEY_WALLET","logo.opn","TrueMoney Wallet","truemoney","WALLET","0","1","0","2","1","0","2",\N,\N
-"3","2024-09-08 20:01:53.658019","1","0","BENEFIT_DEBIT","logo.opn","Debit Card",\N,"DEBIT_CARD","0","0","0","15","3","0","3",\N,\N
-"4","2024-09-08 20:01:53.658019","1","0","MASTERCARD_CREDIT","logo.opn","Credit Card",\N,"CREDIT_CARD","1","0","0","10","4","1","4",\N,\N
-"5","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DCB","logo.opn","Direct Carrier Billing","1","DCB","0","0","0","20","5","0","5",\N,\N
-"6","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_7ELEVEN","logo.opn","7-Eleven","344","CONVENIENCE_STORE","0","0","0","21","5","0","6",\N,\N
-"7","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_SHOPEE","logo.opn","Shopee Pay","346","WALLET","0","0","0","22","5","0","7",\N,\N
-"8","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DOLFIN","logo.opn","Dolfin Wallet","343","WALLET","0","0","0","23","5","0","8",\N,\N
-"9","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_RABBIT","logo.opn","Rabbit LINE Pay","332","WALLET","0","0","0","24","5","0","9",\N,\N
-"10","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_ATM","logo.opn","ATM, Convenience Store, Bank Branch ","331","ATM","0","0","0","25","5","0","10",\N,\N
-"11","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TRUEMONEY_CASH","logo.opn","True Money Cash","340","VOUCHER","0","0","0","26","5","0","11",\N,\N
-"12","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_BOOST","logo.opn","Boost","238","WALLET","0","0","0","32","5","0","12",\N,\N
-"13","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_GRABPAY","logo.opn","GrabPay","236","WALLET","0","0","0","33","5","0","13",\N,\N
-"14","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TOUCH_GO","logo.opn","Touch N Go","237","WALLET","0","0","0","34","5","0","14",\N,\N
-"15","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DIGI_PREPAID","logo.opn","Digi Prepaid Reload Card","235","VOUCHER","0","0","0","35","5","0","15",\N,\N
-"16","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TRUEMONEY_WALLET","logo.png","TrueMoney Wallet","342","WALLET","0","0","0","27","5","0","16",\N,\N
-"17","2024-09-08 20:01:53.658019","1","1","PAYHERE_PAYMENTS_CREDIT_CARD","logo.png","Credit Card","credit_card","CREDIT_CARD","1","0","0","40","6","0","17",\N,\N
-"18","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_GENIE",\N,"Genie","GENIE","WALLET","0","0","0","41","6","0","18",\N,\N
-"19","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_EZCASH",\N,"eZCash","EZCASH","WALLET","0","0","0","42","6","0","19",\N,\N
-"20","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_MCASH",\N,"MCash","MCASH","WALLET","0","0","0","43","6","0","20",\N,\N
-"21","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_FRIMI",\N,"FriMi","FRIMI","WALLET","0","0","0","44","6","0","21",\N,\N
-"22","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_QPLUS",\N,"Q Plus","QPLUS","WALLET","0","0","0","45","6","0","22",\N,\N
-"23","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_LOLC_IPAY",\N,"iPay","LOLC_IPAY","WALLET","0","0","0","46","6","0","23",\N,\N
-"24","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_VISHWA",\N,"Sampath Vishwa Bank","VISHWA","INTERNET_BANKING","0","0","0","47","6","0","24",\N,\N
-"25","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_HNB",\N,"Hatton National Bank","HNB","INTERNET_BANKING","0","0","0","48","6","0","25",\N,\N
-"26","2024-09-08 20:01:53.658019","1","1","OMISE_ALIPAY",\N,"Alipay","alipay","WALLET","0","1","0","3","1","0","26",\N,\N
-"27","2024-09-08 20:01:53.658019","1","1","PMOVIL_MOBILY",\N,"Mobily","mobily","DCB","1","0","0","55","7","0","27",\N,\N
-"28","2024-09-08 20:01:53.658019","1","1","PMOVIL_OOREDOO",\N,"Ooredoo","ooredoo","DCB","1","0","0","56","7","0","28",\N,\N
-"29","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_HELAPAY",\N,"Hela Pay","HELAPAY","INTERNET_BANKING","0","0","0","49","6","0","29",\N,\N
-"30","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_UNKNOWN",\N,"PayHere Unknown","UNKNOWN","INTERNET_BANKING","0","0","0","50","6","0","30",\N,\N
-"31","2024-09-08 20:01:53.658019","1","1","MOBIACCESS_GLOBE",\N,"Globe","globe","DCB","1","0","1","60","8","0","31",\N,\N
-"32","2024-09-08 20:01:53.658019","1","1","GLOBE_GCASH",\N,"GCash","globe_gcash","WALLET","0","0","1","70","9","0","32",\N,\N
-"33","2024-09-08 20:01:53.658019","1","1","GLOBE_REWARDS",\N,"Rewards","globe_rewards","REWARDS","0","0","0","71","9","0","33",\N,\N
-"34","2024-09-08 20:01:53.658019","1","1","CLOUD7_BANGLALINK",\N,"Banglalink","banglalink","DCB","1","0","0","72","10","0","34",\N,\N
-"35","2024-09-08 20:01:53.658019","1","1","ETISALAT_CREDIT",\N,"Credit Card","etisalat_credit","CREDIT_CARD","1","0","0","73","11","1","35",\N,\N
-"36","2024-09-08 20:01:53.658019","1","1","PAYPAL_PAYPAL",\N,"Paypal",\N,"PAYPAL","1","0","0","78","12","0","36",\N,\N
-"37","2024-09-08 20:01:53.658019","1","1","MOBIACCESS_ETISALAT",\N,"Etisalat","etisalat","DCB","1","0","0","80","8","0","37",\N,\N
+"111","2024-09-08 20:01:53.658019","1","1","OMISE_CREDIT","logo.opn","Credit Card","credit_card","CREDIT_CARD","1","1","0","1","1","0","1",\N,\N
+"112","2024-09-08 20:01:53.658019","1","1","OMISE_TRUEMONEY_WALLET","logo.opn","TrueMoney Wallet","truemoney","WALLET","0","1","0","2","1","0","2",\N,\N
+"113","2024-09-08 20:01:53.658019","1","0","BENEFIT_DEBIT","logo.opn","Debit Card",\N,"DEBIT_CARD","0","0","0","15","3","0","3",\N,\N
+"114","2024-09-08 20:01:53.658019","1","0","MASTERCARD_CREDIT","logo.opn","Credit Card",\N,"CREDIT_CARD","1","0","0","10","4","1","4",\N,\N
+"115","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DCB","logo.opn","Direct Carrier Billing","1","DCB","0","0","0","20","5","0","5",\N,\N
+"116","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_7ELEVEN","logo.opn","7-Eleven","344","CONVENIENCE_STORE","0","0","0","21","5","0","6",\N,\N
+"117","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_SHOPEE","logo.opn","Shopee Pay","346","WALLET","0","0","0","22","5","0","7",\N,\N
+"118","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DOLFIN","logo.opn","Dolfin Wallet","343","WALLET","0","0","0","23","5","0","8",\N,\N
+"119","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_RABBIT","logo.opn","Rabbit LINE Pay","332","WALLET","0","0","0","24","5","0","9",\N,\N
+"1110","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_ATM","logo.opn","ATM, Convenience Store, Bank Branch ","331","ATM","0","0","0","25","5","0","10",\N,\N
+"1111","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TRUEMONEY_CASH","logo.opn","True Money Cash","340","VOUCHER","0","0","0","26","5","0","11",\N,\N
+"1112","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_BOOST","logo.opn","Boost","238","WALLET","0","0","0","32","5","0","12",\N,\N
+"1113","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_GRABPAY","logo.opn","GrabPay","236","WALLET","0","0","0","33","5","0","13",\N,\N
+"1114","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TOUCH_GO","logo.opn","Touch N Go","237","WALLET","0","0","0","34","5","0","14",\N,\N
+"1115","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_DIGI_PREPAID","logo.opn","Digi Prepaid Reload Card","235","VOUCHER","0","0","0","35","5","0","15",\N,\N
+"1116","2024-09-08 20:01:53.658019","1","0","CODA_PAYMENTS_TRUEMONEY_WALLET","logo.png","TrueMoney Wallet","342","WALLET","0","0","0","27","5","0","16",\N,\N
+"1117","2024-09-08 20:01:53.658019","1","1","PAYHERE_PAYMENTS_CREDIT_CARD","logo.png","Credit Card","credit_card","CREDIT_CARD","1","0","0","40","6","0","17",\N,\N
+"1118","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_GENIE",\N,"Genie","GENIE","WALLET","0","0","0","41","6","0","18",\N,\N
+"1119","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_EZCASH",\N,"eZCash","EZCASH","WALLET","0","0","0","42","6","0","19",\N,\N
+"1120","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_MCASH",\N,"MCash","MCASH","WALLET","0","0","0","43","6","0","20",\N,\N
+"1121","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_FRIMI",\N,"FriMi","FRIMI","WALLET","0","0","0","44","6","0","21",\N,\N
+"1122","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_QPLUS",\N,"Q Plus","QPLUS","WALLET","0","0","0","45","6","0","22",\N,\N
+"1123","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_LOLC_IPAY",\N,"iPay","LOLC_IPAY","WALLET","0","0","0","46","6","0","23",\N,\N
+"1124","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_VISHWA",\N,"Sampath Vishwa Bank","VISHWA","INTERNET_BANKING","0","0","0","47","6","0","24",\N,\N
+"1125","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_HNB",\N,"Hatton National Bank","HNB","INTERNET_BANKING","0","0","0","48","6","0","25",\N,\N
+"1126","2024-09-08 20:01:53.658019","1","1","OMISE_ALIPAY",\N,"Alipay","alipay","WALLET","0","1","0","3","1","0","26",\N,\N
+"1127","2024-09-08 20:01:53.658019","1","1","PMOVIL_MOBILY",\N,"Mobily","mobily","DCB","1","0","0","55","7","0","27",\N,\N
+"1128","2024-09-08 20:01:53.658019","1","1","PMOVIL_OOREDOO",\N,"Ooredoo","ooredoo","DCB","1","0","0","56","7","0","28",\N,\N
+"1129","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_HELAPAY",\N,"Hela Pay","HELAPAY","INTERNET_BANKING","0","0","0","49","6","0","29",\N,\N
+"1130","2024-09-08 20:01:53.658019","1","0","PAYHERE_PAYMENTS_UNKNOWN",\N,"PayHere Unknown","UNKNOWN","INTERNET_BANKING","0","0","0","50","6","0","30",\N,\N
+"1131","2024-09-08 20:01:53.658019","1","1","MOBIACCESS_GLOBE",\N,"Globe","globe","DCB","1","0","1","60","8","0","31",\N,\N
+"1132","2024-09-08 20:01:53.658019","1","1","GLOBE_GCASH",\N,"GCash","globe_gcash","WALLET","0","0","1","70","9","0","32",\N,\N
+"1133","2024-09-08 20:01:53.658019","1","1","GLOBE_REWARDS",\N,"Rewards","globe_rewards","REWARDS","0","0","0","71","9","0","33",\N,\N
+"1134","2024-09-08 20:01:53.658019","1","1","CLOUD7_BANGLALINK",\N,"Banglalink","banglalink","DCB","1","0","0","72","10","0","34",\N,\N
+"1135","2024-09-08 20:01:53.658019","1","1","ETISALAT_CREDIT",\N,"Credit Card","etisalat_credit","CREDIT_CARD","1","0","0","73","11","1","35",\N,\N
+"1136","2024-09-08 20:01:53.658019","1","1","PAYPAL_PAYPAL",\N,"Paypal",\N,"PAYPAL","1","0","0","78","12","0","36",\N,\N
+"1137","2024-09-08 20:01:53.658019","1","1","MOBIACCESS_ETISALAT",\N,"Etisalat","etisalat","DCB","1","0","0","80","8","0","37",\N,\N
 "38","2024-09-08 20:01:53.658019","1","1","COCO_OOREDOO_DU",\N,"Ooredoo DU","ooredoodu","DCB","1","0","0","80","13","0","38",\N,\N
 "39","2024-09-08 20:01:53.658019","1","0","FAWRY_CASH",\N,"Pay by Fawry","PAYATFAWRY","CASH","0","0","0","85","14","0","39",\N,\N
 "40","2024-09-08 20:01:53.658019","1","1","MOBIACCESS_OOREDOO",\N,"Ooredoo","ooredoo","DCB","1","0","0","57","8","0","40",\N,\N
